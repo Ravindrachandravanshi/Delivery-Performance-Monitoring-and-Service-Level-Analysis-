@@ -7,12 +7,9 @@ Key Responsibilities:
 Designed and implemented metrics for daily tracking of service levels, including On-Time Delivery (OT %), In-Full Delivery (IF %), and On-Time In-Full Delivery (OTIF %), aligned with customer-specific targets.
 
 Outcome: 
+
 •	Total Orders sales not matched with target by 31%.
-
 •	In full orders only achieve 56% but our target was 76.5%.
-
 •	OTIF only get 29.36% and target is 65.91%.
-
 •	June is the most problematic month all OT%, IF% and OTIF% decreased at lower level.
-
 •	We are still not having any improvement in Ontime but IF and OTIF is getting better in last two months.
